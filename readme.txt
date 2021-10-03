@@ -1,4 +1,4 @@
- CSE 3216 (MSD Lab)
+ CSE 3216 (MSD (Microcontroller based System Design) Lab)
 Department of CSE
 Ahsanullah University of Science and Technology (AUST)
 Dhaka,Bangladesh.
